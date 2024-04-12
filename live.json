@@ -12,7 +12,13 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
-//其他直播源
+      "name": "right",
+      "type": 0,
+      "url": "http://centos.yjxfz.com/ShenQiHelper/tv/getVideoConfig?type=txt&key=Bz3feRiR1Wtv4hBGglrQ6w%3D%3D&version=2",
+      "playerType": 1,
+      "ua": "okhttp/3.15",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
 
 
