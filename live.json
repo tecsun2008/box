@@ -5,7 +5,7 @@
     {
       "name": "me",
       "type": 0,
-      "url": "http://iptv.yjxfz.com/ShenQiHelper/tv/getVideoConfig?type=txt&key=Bz3feRiR1Wtv4hBGglrQ6w%3D%3D",
+      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/tecsun2008/rose/main/me.m3u",
       "playerType": 1,
       "ua": "okhttp/3.15",
       "epg": "https://live.fanmingming.com/e.xml",
