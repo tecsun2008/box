@@ -14,7 +14,7 @@
     {
       "name": "right",
       "type": 0,
-      "url": "http://centos.yjxfz.com/ShenQiHelper/tv/getVideoConfig?type=txt&key=Bz3feRiR1Wtv4hBGglrQ6w%3D%3D&version=2",
+      "url": "http://iptv.iptviptv.site:8079/iptv.txt",
       "playerType": 1,
       "ua": "okhttp/3.15",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
